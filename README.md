@@ -1,4 +1,4 @@
-# IPL Data Analysis with Dashboards
+# IPL Data Analysis with Dashboards 🏏
 
 ## Overview
 
